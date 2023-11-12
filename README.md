@@ -7,7 +7,7 @@ This directory contains an interactive implementation of a singly linked list wi
 - Extra Features: This implementation includes list traversal.
 
 ## Compilation
- Use the following command to compile the source files:gcc linkedlistimpl.c linkedlist.c -o <executable name>
+ Use the following command to compile the source files: `gcc linkedlistimpl.c linkedlist.c -o <executable name>`
 
 ## Libraries Used
 - stdio.h
